@@ -1,0 +1,20 @@
+Title: Weight Loss Charts
+
+----
+
+Description: Verfolge was wir abnehmen
+
+----
+
+Text: **Bastian**
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/a/schlingel.net/spreadsheet/tq?key=0AkOlX50RylNLdHczQkVFVW5pUmNkTFc5bFdEZjNkcWc&transpose=0&headers=1&merge=COLS&range=A1%3AA318%2CB1%3AB318&gid=2&pub=1","options":{"series":{"0":{"errorBars":{"errorType":"none","magnitude":5},"pointSize":0}},"curveType":"function","animation":{"duration":0},"width":620,"theme":"maximized","lineWidth":2,"hAxis":{"useFormatFromData":true,"minValue":null,"viewWindowMode":null,"viewWindow":null,"maxValue":null},"vAxes":[{"useFormatFromData":true,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null},{"useFormatFromData":true,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null}],"booleanRole":"certainty","height":450,"interpolateNulls":false,"domainAxis":{"direction":1},"legend":"in"},"state":{},"view":{},"chartType":"LineChart","chartName":"Chart 1"} </script>
+
+
+**Tobias**
+
+<iframe src="http://www.withings.com/de/utils/graph?userid=49644&publickey=ede86ebeae349d36&massUnit=kg&forcedisplay=fm" width="620" height="540" scrolling="no" frameborder="0"></iframe>
+
+**Arne**
+
+<iframe src="http://www.withings.com/de/utils/graph?userid=1984866&publickey=4dabb2490bb31a4d&massUnit=kg&forcedisplay=fm" width="620" height="540" scrolling="no" frameborder="0"></iframe>

@@ -1,0 +1,66 @@
+Title: OMRON BF511 
+
+----
+
+Description: Koerperanalysewaage
+
+----
+
+Date: 2013-05-03
+
+----
+
+Category: Gadget
+
+----
+
+Tags: waage, wiegen, koerperfett, gewicht, messen, messung, wasseranteil, bmi, werte
+
+----
+
+Text: **OMRON BF511 Body Composition Monitor**
+(lightbox: waage.jpg)
+Hallihallo!
+
+In diesem Artikel geht es um ein Gerät, das jeder, der das Slow-Carb-Prinzip verfolgt, vermutlich ziemlich gut kennt: eine Waage. Diese Waage jedoch hat einen Clou, wegen dem sie sich nicht Waage, sondern 'Body Composition Monitor' nennt. Die Übersetzung hiervon ist Körperzusammensetzungsbetrachter, und das trifft auch ziemlich genau zu, denn diese Waage kann deutlich mehr als Gewicht zu messen.
+
+Die Hauptfunktion ist natürlich, wie bei jedem anderen in einem Badezimmer stehenden, ca. 40x40 cm großen, 5-10 cm hohen Gerät zum Draufsteigen auch, die Messung des Körpergewichts. Das erlaubte Gewicht ist bei diesem Gerät zwischen 0 und 150 kg. Wer also vermutet, dass er weniger wiegt, kann diese Waage nutzen. Die Messschritte liegen bei 0,1 kg, die Messungenauigkeit beim Gewicht wird mit 0,4 kg bis 40 kg und 1% ab 40 kg angegeben. 
+
+Dieses und etliches mehr lässt sich aus der sehr detailreichen und interessanten Bedienungsanleitung entnehmen, die der BF511 beiliegt. Neben den obligatorischen Anleitungen, wie das Gerät zu bedienen ist, sind auch viele nützliche Informationen enthalten, etwa, zu welchen Zeitpunkten das Wiegen empfohlen ist, und zu welchen nicht. Es werden verschiedene Verhaltensweisen empfohlen, etwa, keinen Alkohol vor der Messung zu sich zu nehmen. Sehr interessant fand ich auch den kurzen Artikel über viszerales (um die Organe) und subkutanes Fett (um den Körper unter der Haut), die beide nicht nur beschrieben werden, es kann auch der viszerale Fettanteil von der BF511 erfasst werden. Es werden so alle Werte erklärt, die die Waage messen kann, was hilfreich ist. Zusätzlich werden der BMI und der Ruhemetabolismus errechnet, also wie viele Kalorien man zu sich nehmen muss, um sein Gewicht zu halten. Da ich das Zählen und Berechnen von Kalorien für Quatsch halte, hab ich das nicht genauer verfolgt, konnte aber durchaus Veränderungen feststellen, die mit meinem Gewicht, Muskel- und Fettanteil zusammenzuhängen scheinen.
+Als technikaffiner Mensch bin ich es gewohnt, Geräte ohne Bedienungsanleitung zu benutzen, doch bei dieser kann ich das Lesen durchaus empfehlen. Allein schon deshalb, weil ich anfangs den Fehler gemacht habe, die Waage auseinanderzunehmen, bevor ich sie angeschaltet habe. 
+
+Ja, richtig gelesen, die BF511 muss zur Benutzung auseinandergenommmen werden, und das ist der angesprochene Clou. Es gibt nämlich ein durch ein Kabel verbundenes, separates Teil zum in die Hände nehmen, mit dem die Messung genauer durchgeführt werden kann.
+(lightbox: handteil.jpg)
+Beim Anschalten muss dieses ca. 500 g wiegende Teil jedoch in der Waage verankert gelassen werden, da sonst das Gewicht des sog. Anzeigemoduls mit zum eigenen Körpergewicht hinzugerechnet wird, was die Werte einigermaßen fälscht.
+Das Anschalten funktioniert bei der BF511 sehr angenehm über einen Zehenschalter, der sich ähnlich wie beim Wii-Fit-Brett vorn am Gerät befindet und ebenso leichtgängig ist.
+(lightbox: button.jpg)
+Mit dem Anzeigemodul in der Hand stelle ich mich also auf das Gerät und stelle fest, dass ich zunächst meine Werte eingeben muss. Das geht über die Tasten der Bedienung schnell und angenehm.
+(lightbox: tasten.jpg)
+Ohne einen Benutzer anzulegen, lassen sich für einmaligen Gebrauch auch die Daten als Gast anlegen, um alle Werte zu bekommen, oder auch einfach das Gewicht messen. Bis zu vier Benutzer lassen sich im Gerät speichern, was für die meisten Familien ausreichen dürfte. Beim späteren Benutzen schalte ich also die Waage lässig mit dem Zeh ein, warte einen Moment, bis sie sich kalibriert hat, und drücke dann ebenso lässig beim Herausnehmen des Anzeigemoduls die Taste "1".
+(lightbox: userwahl.jpg)
+Dann umschließe ich beide Griffe des Anzeigemoduls mit den Händen und stelle mich auf die Waage. Es dauert einen Moment, dann steht das Gewicht fest. Dann blinkt das Display wenige Male, bis alle anderen Werte gemessen wurden. Und wenn das geschehen ist, lassen sich alle Werte bequem über die teils doppelt belegten Tasten des Anzeigemoduls abrufen. Dem Display lässt sich dann genau entnehmen, um welche Messung es sich handelt und welcher Wert jeweils gemessen wurde. Es gibt Gewicht, BMI, Body Fat (Körperfettanteil), Body Muscle (Körpermuskelanteil), RM kcal (Ruhemetabolismus), und Visceral Fat (den Fettwert). Wer mit den Fettwerten nichts anfangen kann, obwohl er schon weiß, was sie bedeuten, der findet in der Bedienungsanleitung eine große Tabelle mit den möglichen Körperfettwerten, aufgeschlüsselt auf Geschlecht und Alter (6-80) und auch eine Qualifizierung des Viszeralen Fettanteils (Normal ist 1-9, ab 10-14 ist es viel, 15-30 ist sehr viel).
+(lightbox: sichtfeld.jpg)
+Sehr angenehm empfinde ich die Tatsache, dass ich genug Zeit habe, alle Werte in Ruhe anzusehen, da die Waage sich erst nach 5 Minuten automatisch ausschaltet. Und selbst wenn das Gerät sich dann ausgeschaltet hat, sind die Werte nicht verloren, denn der immer aktuelle Wert wird im Gerät gespeichert und lässt sich anschließend wieder abrufen. Es gibt sogar eine zweite Anzeige, die zu jedem aktuell gemessenen Wert jeweils den zuletzt gemessenen anzeigt, so dass sich Veränderungen direkt am Display ablesen lassen können. Der Wert vor dem letzten wird jedoch gelöscht und ist unwiderruflich weg. (Tipp: Wer gern täglich, wöchentlich, und monatlich sein Gewicht mit dem vorigen vergleicht, kann ja einfach mehrere der 4 Benutzer für verschiedene 'letzte Werte' nutzen und die in jeweils verschiedenen Abständen verwenden!)
+
+Was in modernen Zeiten an dieser Waage zu bemängeln wäre, ist einzig die Tatsache, dass es eben 'nur' ein sehr umfangreiches Körpermessgerät ist, das seine Werte für sich behält und die nicht irgendwohin synchronisiert. Wem das allerdings nicht so wichtig ist, der findet im OMRON BF511 KaradaScan Body Composition Monitor ein preislich mit ca. 70€ angenehmes Modell, das ansonsten keine Wünsche offen lässt. Gerade die Anzeige des jeweils letzten Wertes ist eine willkommene Funktion, die so manche per Hand erstellte Tabelle ersparen kann. 
+
+Ich kann dieses Gerät für SlowCarber uneingeschränkt empfehlen! 
+
+Nachtrag: Mir wurde dieses Gerät als Testgerät zur Verfügung gestellt und dafür bedanke ich mich an dieser Stelle sehr herzlich bei Frau Bartsch und der OMRON Medizintechnik Handelsgesellschaft mbH! Selbstverständlich habe ich meine Bewertung ohne Berücksichtigung dieser Tatsache verfasst.
+
+Wer Anmerkungen hat, dem sei das Kommentarfeld unter diesem Artikel ans Herz gelegt. 
+
+Ihr seht schon sehr gut aus, macht weiter so!
+-euer Arne
+
+----
+
+Author: Arne
+
+----
+
+Flattr: codenaga
+
+----
+
+Comments: vanilla

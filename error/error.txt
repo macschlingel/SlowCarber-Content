@@ -1,0 +1,9 @@
+Title: Error
+
+----
+
+Description: The page you've been looking for has not been found.
+
+----
+
+Text: Ooops... We've got a legend 404. The page you've been looking for has not been found.

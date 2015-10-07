@@ -1,0 +1,13 @@
+Title: SlowCarber
+
+----
+
+Author: Bastian Wölfle
+
+----
+
+Description: Abnehmen, Ernährung, Fitness und Lifestyle
+
+----
+
+Copyright: © (date: Year) Bastian Woelfle • Based on (link: http://getkirby.com text: Kirby) • Help with porting to Kirby: (link: https://lukasbestle.com text: Lukas Bestle) • (link: feed text: RSS Feed)

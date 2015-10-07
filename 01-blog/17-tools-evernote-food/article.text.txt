@@ -1,0 +1,45 @@
+﻿Title: Evernote Food
+
+----
+
+Description: Ein einfaches Tool zur Erfassung der täglichen Mahlzeiten
+
+----
+
+Date: 2013-01-26
+
+----
+
+Category: Tool
+
+----
+
+Tags: 
+
+----
+
+Text: Den Überblick über alles zu behalten ist bei der SCD (bzw. bei Diäten generell) besonders wichtig. Je mehr man erfasst und kontrolliert desto größer ist der Überblick den man über seine Diät und deren Auswirkungen hat. Gewicht, Körperfett- und Muskelanteil können bspw. mittels [MyNetDiary](http://4hourgeeks.com/tools-mynetdiary-com) erfasst werden, die regelmäßigen Rad- und Lauftouren mit [Runtastic](http://4hourgeeks.com/tools-runtastic) getrackt. Doch auch die Kontrolle über die täglichen Mahlzeiten ist wichtig. Und hier kommt Evernote Food ins Spiel.
+Wer bereits einen Evernote Account hat, kann diesen zur Anmeldung nutzen, andernfalls ist eine kostenlose Registrierung zur Verwendung der App notwendig.
+Startet man die App, erhält man eine Auflistung sämtlicher, bisher erfasster Mahlzeiten. 
+
+(lightbox: 01.jpg) 
+
+Auf Knopfdruck ist es dann möglich einen neuen Eintrag zu erfassen. Die App erkennt dabei anhand der Uhrzeit, ob es sich um Frühstück, Mittagessen oder Abendessen handelt und blendet dies vor (ein manuelles Anpassen ist allerdings auch möglich). Zusätzlich lassen sich Notizen (Ich notiere mir dort die verwendeten Zutaten), Orte, Küche (italienisch, asiatisch, etc.) und Tags erfassen. Das Wichtigste ist allerdings die Möglichkeit, schnell und einfach ein Foto der Mahlzeit zu schiessen, welches in den Eintrag integriert wird.
+
+(lightbox: 02.jpg) (lightbox: 03.jpg)
+
+Evernote Food bietet einen schnellen und ansprechenden Weg seine Mahlzeiten zu erfassen und zu überblicken. Dadurch wird man sich auch seiner Ernährung bewusster. 
+
+Die App steht im (link: https://itunes.apple.com/de/app/evernote-food/id481893372?l=en&mt=8 text: iTunes App Store) und (link: https://play.google.com/store/apps/details?id=com.evernote.food&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5ldmVybm90ZS5mb29kIl0. text: google play store) Gratis zur Verfügung.
+
+----
+
+Author: Lukas
+
+----
+
+Flattr: TheAssmann
+
+----
+
+Comments: disqus

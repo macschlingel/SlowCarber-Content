@@ -1,0 +1,106 @@
+Title: Bluetooth Sport-Ohrhörer, oder “Wie es fast jeder irgendwie falsch macht”
+
+---- 
+
+Description: Man kann von vielen Herstellern Sportohrhörer kaufen, wollen tut man das wohl nur von Plantronics
+
+---- 
+
+Date: 2014-07-22
+
+---- 
+
+Category: Gadget
+
+---- 
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+---- 
+
+Author: Basti
+
+---- 
+
+Flattr: schlingel
+
+---- 
+
+Comments: vanilla
+---- 
+Text:
+Die Aufgabenstellung scheint eigentlich einfach “Ich möchte Sport-Ohrhörer mit Bluetooth” und man möchte meinen da kann man bei 50€ aufwärts nicht so viel verkehrt machen. Zugegeben, ich bin etwas “speziell”, kabelgebundene Kopfhörer sind für mich keine Option weil das Kabel immer irgendwo hängt und rumfliegt. On-Ears kommen auch nicht in Frage, da ich gerne noch etwas von meiner Umwelt (Autos, etc) höre und ich daher meine [Airbudz][1] auf meine InEars setze. 
+Halbwegs gut klingen sollen sie ausserdem (zugegeben mit den Airbudz leidet die Qualität) und natürlich vernünftig sitzen.
+Mit der Menge an Einschränkungen bleibt nicht mehr all zuviel Auswahl.
+
+## Denon Exercise Freak
+__Kurzfazit:__
+(lightbox: denon.jpg)
+
+* \+ Guter Klang, Super Sitz, hochwertige Verarbeitung.
+* \- Unfassbar schlechte Bluetooth Verbindung.
+[[Mehr zum Denon Exercise Freak][2]]
+  
+
+## Philips SHB6017
+__Kurzfazit:__
+(lightbox: philips.jpg)
+
+* \+ Guter Klang, Durch Ormuschel-Befestigung recht guter Sitz
+* \- Schlechte Bluetooth Verbindung
+[[Mehr zum Philips SHB6017][3]]
+  
+
+## Plantronics BackBeat Go2
+__Kurzfazit:__
+(lightbox: backbeatgo2.jpg)
+
+* \+ Guter Klang, einfaches Einsetzen, optisch alltagstauchlich
+* \- Kein idealer Sitz beim Laufen, Schrittgeräusche beim Laufen
+[[Mehr zum Plantronics BackBeat Go2][4]]
+  
+
+## Plantronics BackBeat 903+
+__Kurzfazit:__
+(lightbox: backbeat903.jpg)
+
+* \+ Guter Klang, Guter Sitz, guter Preis
+* \- Offenbar Auslaufmodell
+[[Mehr zum Plantronics BackBeat 903+][5]]
+  
+
+## Jabra ROX Wireless
+__Kurzfazit:__
+(lightbox: rox-wireless.jpg)
+
+* \+ Extrem guter Klang, Guter Sitz, durchdachte Details
+* \- Relativ Teuer
+[[Mehr zum Jabra ROX Wireless][6]]
+  
+
+## Jabra Sport Wireless+
+__Kurzfazit:__
+(lightbox: sport-wireless.jpg)
+
+* \+ Extrem guter Sitz, “Adapter” für jeden Ohr-Typ
+* \- Mittelmäßige Bluetoothverbindung, Kein Standard InEar (keine Airbudz)
+[[Mehr zum Jabra Sports Wireless+][7]]
+
+
+# Metafazit:
+Besonders in Anbetracht der Varianten von Plantronics kann man die Ohrhörer von Denon und Philips direkt beim Händler liegen lassen. Möchte man ein Bluetooth Headset haben, dass man auch im Alltag nutzen kann ohne komisch angeschaut zu werden und unter 100€ kosten, würde ich zum BackBeat Go2 greifen, wenn man mit den Nachteilen beim Laufen leben kann. Wenn es etwas teurer sein darf, dann wäre der Jabra ROX Wireless meine Empfehlung.
+Wen es nicht stört für den Sport ein eigenes Headset zu kaufen, dem sei das Plantronics 903+ ans Herz gelegt. Falls es wirklich ein Auslaufmodell ist würde ich eher Heute als Morgen zuschlagen. Viel besser wird ein Sportheadset nicht. Nah dran kommt da nur das Jabra Sports Wireless+, jedoch für die “Smartphone-an-der-Hüfte-Träger” hat es für meinen Geschmack ein paar Aussetzer zuviel.
+
+Apropos Headset: Alle getesteten Modelle sind nicht nur Ohrhörer sondern auch Headsets, haben also eingebaute Mikrofone. Alle eignen sich gut zum Telefonieren. Beim Plantronics Go2 das Mikro in der Fernbedienung am Kabel und ist somit näher am Mund. Hier hört einen der Gesprächspartner etwas besser.
+Wie gut die verschiedenen Modelle mit viel Schweiss auskommen kann ich nicht beurteilen. “Leider” Schwitze ich generell nicht so extrem. In den Amazon Kommentaren wird bei jedem Modell irgendwo gejammert, dass Modell XY nach 3 Wochen wegen Schweiss kaputt war und “deswegen x Euro umsonst ausgegeben wurden”. An der Stelle möchte ich kurz daraf hinweisen (da es offenbar komplett behämmerte Rezensionenschreiber gibt), dass jeder Kopfhörer mit Herstellergarantie kommt und wir in Deutschland die Händlergewährleistung haben, dank der man in den ersten 6 Monaten ohne Beweislast defekte Geräte beim Händler tauschen oder reparieren lassen kann.
+
+
+__Welche Kopfhörer nutzt ihr so für den Sport? Warum genau diese? Lasst es uns und andere Leser in den Kommentaren wissen.__
+
+[1]:	http://www.safesoundproducts.com/airbudz.html
+[2]:	/denon-exercise-freak
+[3]:	/philips-shb6017
+[4]:	/plantronics-backbeat-go2
+[5]:	/plantronics-backbeat-903+
+[6]:	/jabra-rox-wireless
+[7]:	/jabra-sport-wireless+

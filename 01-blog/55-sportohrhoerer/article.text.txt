@@ -1,0 +1,99 @@
+Title: Bluetooth Sport-Ohrhörer, oder “Wie es fast jeder irgendwie falsch macht”
+
+----
+
+Description: Man kann von vielen Herstellern Sportohrhörer kaufen, wollen tut man das wohl nur von Plantronics
+
+----
+
+Date: 2014-06-01
+
+----
+
+Category: Gadget
+
+----
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+----
+Text:
+Die Aufgabenstellung scheint eigentlich einfach “Ich möchte Sport-Ohrhörer mit Bluetooth” und man möchte meinen da kann man bei 50€ aufwärts nicht so viel verkehrt machen. Zugegeben, ich bin etwas “speziell”, kabelgebundene Kopfhörer sind für mich keine Option weil das Kabel immer irgendwo hängt und rumfliegt. On-Ears kommen auch nicht in Frage, da ich gerne noch etwas von meiner Umwelt (Autos, etc) höre und ich daher meine [Airbudz][1] auf meine InEars setze. Halbwegs gut klingen sollen sie ausserdem (zugegeben mit den Airbudz leidet die Qualität) und natürlich vernünftig sitzen.
+Mit der Menge an Einschränkungen bleibt nicht mehr all zuviel Auswahl.
+
+## Denon Exercise Freak
+Das erste Modell dass den Weg zu mir findet sind die [Denon Exercise Freak][2]. Denon ist bekannt für ordentliche Receiver/Verstärker, also erwartet man (besonders bei 100€) etwas gutes.
+(lightbox: denon.jpg)
+Die Verarbeitung ist solide, die Farben auffällig und wenn man sie mal ins Ohr gefummelt hat sitzen sie auch super (zumindest bei meinen Ohren). Bei [Felix][3] halten die Exercise Freak jedoch nicht. Der Sound ist in Ordnung, wenn auch für meinen Geschmack zu basslastig. Auch bei höherer Lautstärke verzerrt hier nichts.
+Also nix wie ab auf und in die Ohren, iPhone auf Hüfthöhe und raus zum laufen. Schon beim gehen setzt die Musik ab und zu aus, sobald man anfängt zu laufen hört man zwischen den langen Aussetzern ab und zu noch einen Fetzen Musik. Bleibt man stehen und atmet wenig hat man meist eine stabile Verbindung, wenn man sich mit dem Oberkörper leicht nach vorne neigt bleibt die Verbindung stabil. Das Problem ist, für “stehend, nach vorne geneigt” bin ich der falsche Lauftyp. Ich bevorzuge “aufrecht, laufend” und ganz wichtig: “mit Musik ohne Aussetzer”. Für mich also nicht der richtige Ohrhörer.
+Wenn man allerdings sein Smartphone an einem Sportarmband am Oberarm trägt bleibt die Verbindung stabil.
+
+__Fazit:__
+
+* \+ Guter Klang, Super Sitz, hochwertige Verarbeitung.
+* \- Unfassbar schlechte Bluetooth Verbindung.
+
+## Philips SHB6017
+Wenn Philips etwas drauf hat, sind es griffige Produktnamen. Nichts geht leichter von der Zunge als [Philips SHB6017][4].
+(lightbox: philips.jpg)
+Im Vergleich zum Modell von Denon wirken die Philips etwas billig, sind aber auch nur gut halb so teuer. Das Aufsetzen und Anpassen dieser Ohrhörer ist schwieriger als beim Modell von Denon und sitzt auch nicht so gut. Ab und zu löst sich ein Stöpsel bei mir, trotz richtiger Einstellung über einen genoppten Schaft (ja, das klingt irgendwie seltsam).  Der Sound ist in Ordnung, nix Audiophiles aber absolut in Ordnung.
+Aber zum wichtigen Test: iPhone auf Hüfthöhe und nix wie raus. Beim Gehen vereinzelt mal ein Aussetzer, verschmerzbar. Sobald ich aber anfange zu laufen etwa ein Aussetzer alle 3-5 Sekunden. Das ist deutlich besser als beim Denon aber immer noch unerträglich. Eigentlich möchte man meinen, dass eine Verbindung von 60cm keine Raketenwissenschaft ist. So werden der Philips und ich auch keine Freunde. Wie beim Denon geht es mit dem Telefon am Arm. Vermutlich auch, wenn man es sich mit Klebeband am Kopf befestigt.
+
+__Fazit:__
+
+* \+ Guter Klang, Durch Ormuschel-Befestigung recht guter Sitz
+* \- Schlechte Bluetooth Verbindung
+
+## Plantronics BackBeat Go2
+Nachdem [Stephan][5] beim [TouchTalk Podcast][6] überschwänglich die [BackBeat Go2][7] gelobt hat, frage ich bei Plantronics nach, ob ich mir so einen leihen kann. Kurz darauf liegt er hier und ist im Vergleich winzig.
+(lightbox: backbeatgo2.jpg)
+Der Go2 hat keine Bügel die über die Ohrmuschel gehen sondern nur relativ kleine Stöpsel und ein Kabel mit Fernbedienung. Mein erster Gedanke “Der Akku kann nicht mehr als 30 min halten”. Von wegen. 1.5h gehen damit locker. Und klingen tun sie auch gut.
+Das “montieren” ist dank der fehlenden Bügel extrem einfach, allerdings sitzt der Go2 deswegen natürlich nicht so fest wie der Denon und Philips. Es passiert innerhalb von 30 min Laufen schon 2-3 mal, dass sich ein Stöpsel langsam löst. Ein Griff und er sitzt wieder. Beim Radfahren bspw löst sich hier nichts.
+Und wieder der Verbindungstest: Gehen, die Verbindung hält. Laufen, die Verbindung hält. Während den 30 min Laufen kein einziger Aussetzer. Um Aussetzer zu erzeugen muss man das iPhone im ersten Stock auf die Spülmaschine legen und in den Keller gehen, in der Kellertür der erste Aussetzer. In der Werkstatt im Keller (2 Decken und 2 Wände dazwischen) sind die Aussetzer immer noch weniger als mit dem Denon).
+Beim Laufen zeigt sich aber ein Nachteil des Go2: Durch die fehlenden Ohrbügel und dadurch dass das Kabel zwischen den Stöpseln direkt am Stöpsel hängt hört man die Schritte beim Laufen recht stark da das Kabel bei jedem Schritt nach unten zieht. Man gewöhnt sich zwar dran, aber lieber wäre es mir ohne. Beim Radfahren bspw. ist das gar kein Problem.
+Bonusfeature: Der Go2 kommt mit einem kleinen Täschen mit eingebautem Akku in dem man den Ohrhörer ca 3x aufladen kann. Damit ist der Ohrhörer immer Einsatzbereit.
+
+__Fazit:__
+
+* \+ Guter Klang, einfaches Einsetzen, optisch alltagstauchlich
+* \- Kein idealer Sitz beim Laufen, Schrittgeräusche beim Laufen
+
+## Plantronics BackBeat 903+
+Nachdem Plantronics offenbar weiss wie Bluetooth funktioniert habe ich ich den Hinweis der PR Abteilung, dass die [BackBeat 903+][8] eher ein Auslaufmodell sind, in den Wind geschlagen und mir dieses Modell bestellt. Mit etwa 50€ auch erschwinglich, und sie haben wie die Modelle von Denon und Philips Ohrbügel.
+(lightbox: backbeat903.jpg)
+Das Andocken an den Ohren ist sogar einfacher als beim Exercise Freak und die 903+ sind erstaunlich dünn und leicht. Hier kann man Headbangen so lang man will, da fällt nix raus. Der Sound ist gut, aber da keine der mitgelieferten Stöpsel bei mir 100% schließen, geht natürlich etwas verloren, dafür brauche ich hier keine Airbudz weil ich genug vom Verkehr mitbekomme. Das 903+ sagt einem sogar akustisch an wie lange man mit der aktuellen Akkuladung noch Musik hören kann, nett.
+Raus, laufen. Es spielt keine Rolle ob ich das Telefon an der Hüfte, in der Tasche, im Schuh oder am Arm habe, die Verbindung macht den “Drei Wetter Taft”. Sie hält.
+
+__Fazit:__
+
+* \+ Guter Klang, Guter Sitz, guter Preis
+
+
+# Metafazit:
+Besonders in Anbetracht der Varianten von Plantronics kann man die Ohrhörer von Denon und Philips direkt beim Händler liegen lassen. Möchte man ein Bluetooth Headset haben, dass man auch im Alltag nutzen kann ohne komisch angeschaut zu werden, würde ich zum BackBeat Go2 greifen, wenn man mit den Nachteilen beim Laufen leben kann.
+Wen es nicht stört für den Sport ein eigenes Headset zu kaufen, dem sei das 903+ ans Herz gelegt. Falls es wirklich ein Auslaufmodell ist würde ich eher Heute als Morgen zuschlagen. Viel besser wird ein Sportheadset nicht.
+Apropos Headset: Alle getesteten Modelle sind nicht nur Ohrhörer sondern auch Headsets, haben also eingebaute Mikrofone. Alle eignen sich gut zum Telefonieren. Beim Go2 ist der Mikro in der Fernbedienung am Kabel und ist somit näher am Mund. Hier hört einen der Gesprächspartner etwas besser.
+Wie gut die verschiedenen Modelle mit viel Schweiss auskommen kann ich nicht beurteilen. “Leider” Schwitze ich generell nicht so extrem. In den Amazon Kommentaren wird bei jedem Modell irgendwo gejammert, dass Modell XY nach 3 Wochen wegen Schweiss kaputt war und “deswegen x Euro umsonst ausgegeben wurden”. An der Stelle möchte ich kurz daraf hinweisen (da es offenbar komplett behämmerte Rezensionenschreiber gibt), dass jeder Kopfhörer mit Herstellergarantie kommt und wir in Deutschland die Händlergewährleistung haben, dank der man in den ersten 6 Monaten ohne Beweislast defekte Geräte beim Händler tauschen oder reparieren lassen kann.
+
+
+__Welche Kopfhörer nutzt ihr so für den Sport? Warum genau diese? Lasst es uns und andere Leser in den Kommentaren wissen.__
+
+[1]:	http://www.safesoundproducts.com/airbudz.html
+[2]:	http://www.amazon.de/s/?_encoding=UTF8&camp=1638&creative=19454&keywords=exercise%20freak&linkCode=ur2&qid=1401580060&rh=n%3A617061011%2Ck%3Aexercise%20freak&rnid=1703609031&site-redirect=de&tag=4hg-21
+[3]:	http://www.twitter.com/felixkling
+[4]:	http://www.amazon.de/gp/product/B004NROUFM/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B004NROUFM&linkCode=as2&tag=4hg-21
+[5]:	http://www.twitter.com/tirolercast
+[6]:	http://www.touchtalk.at
+[7]:	http://www.amazon.de/gp/product/B00FLKRDRW/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00FLKRDRW&linkCode=as2&tag=4hg-21
+[8]:	http://www.amazon.de/gp/product/B0046W2MKY/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B0046W2MKY&linkCode=as2&tag=digital0c-21
+----
+
+Author: Basti
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla

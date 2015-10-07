@@ -1,0 +1,53 @@
+Title: Jabra Sport Wireless+
+
+---- 
+
+Description: Optimaler Sitz, Bluetoothverbindung Verbesserungswürdig
+
+---- 
+
+Date: 2014-07-27
+
+---- 
+
+Category: Gadget
+
+---- 
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+---- 
+
+Author: Basti
+
+---- 
+
+Flattr: schlingel
+
+---- 
+
+Comments: vanilla
+---- 
+Text:
+Nachdem [Micha][1] mein erstes Review zu Bluetooth Kopfhörern gelesen hatte, fiel ihm wohl auf, dass hier Jabra nicht vertreten ist. Nachdem er gerade erst selbst ein [Review][2] der Rox Wireless geschrieben hatte, wies er die Jabra PR darauf hin und prompt hatte ich zwei Bluetooth Modelle von Jabra in der Post.  
+(lightbox: sport-wireless1.jpg)
+Der [Jabra Sport Wireless+][3] ist ein Sportohrhörer, der ein bisschen aus meinem eigentlichen “Beuteschema” rausfällt. Er hat keine Stäbchen auf die Silikonpads aufgesetzt sind, damit kann ich meine Airbudz nicht anbringen. Da der Sport Wireless+ jedoch (zumindest bei mir) nicht 100% abschließt kommt hier noch genug Umgebungsgeräusch rein, dass ich mich nicht komplett von der Umwelt abgeschirmt fühle. Klanglich ist er keine Offenbahrung, allerdings habe ich auch den Fehler gemacht ihn direkt nach dem ROX Wireless zu testen, welcher um Welten besser ist. Und sind wir mal ehrlich, nach ein paar Kilometern laufen hat man eh andere sorgen ob da jetzt Dolby Zertifizierter Sound rauskommt. Zumindest geht es mir so.
+Eines der wichtigsten Merkmale für mich ist der Sitz der Ohrhörer und hier spielt der Sport Wireless+ in der obersten Liga. Er legt sich schön und leicht um die Ohrmuschel und dank der großen Auswahl an “Gehörgangadaptern” kann sich vermutlich jeder den Ohrhörer passend machen.  
+(lightbox: sport-wireless2.jpg)
+Das Kabel kommt mit einem kleinen Plastikclip, der es hinter dem Kopf zusammenhält, damit bewegt sich beim Laufen nichts und man hat keinerlei Kabelgeräusche. Ich sehe mich allerdings schnell diesen Clip verlieren, da er nicht 100% gesichert ist.
+(lightbox: sport-wireless3.jpg)
+Beim Thema “Stabilität der Bluetoothverbindung” kommen wir zu etwas seltsamen: Die ersten 15 min sind meist praktisch Störungsfrei, ggf 1-3 Aussetzer. Dann wird es schlimmer. Mal mehr mal weniger Aussetzer, allerdings kann ich nicht wirklich festmachen woran es liegt. Auch bei einem Austauschgerät, welches mir Jabra geschickt hat tritt dasselbe Fehlerbild auf. Was sich in den 15 min ändert, ist die Schweißentwicklung auf meinem Kopf. Ob Schweiß nun Bluetooth stört weiß ich nicht. Dieses Aussetzer sind allerdings kein generelles Jabra Problem, da der [ROX Wireless][4] dieses Problem gar nicht zeigt. Und immer dran denken, das passiert ausschließlich wenn man das Smartphone auf Hüfthöhe trägt. Sobald es in einem Sportarmband ist, ist alles perfekt.
+Apropos Sportarmband: Der Sport Wireless+ liefert so eines gleich mit. Es ist nicht das beste aller Sportarmbänder aber es tut seinen Job wenn man bspw. mal eins für Reisen braucht.
+
+
+__Fazit:__
+
+* \+ Extrem guter Sitz, “Adapter” für jeden Ohr-Typ
+* \- Mittelmäßige Bluetoothverbindung, Kein Standard InEar (keine Airbudz)
+* Akkulaufzeit: ca 3h
+* Aussetzer: 10-50/10min
+
+[1]:	https://twitter.com/amujan
+[2]:	http://www.stereopoly.de/jabra-rox-wireless-test/
+[3]:	http://www.amazon.de/gp/product/B00EGLQN9G/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00EGLQN9G&linkCode=as2&tag=4hg-21
+[4]:	/jabra-rox-wireless

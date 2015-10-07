@@ -1,0 +1,10 @@
+Title: Forum
+
+----
+
+Description: Forum
+
+----
+
+Text:
+<script type="text/javascript" src="http://forum.slowcarber.de/plugins/embedvanilla/remote.js"></script>

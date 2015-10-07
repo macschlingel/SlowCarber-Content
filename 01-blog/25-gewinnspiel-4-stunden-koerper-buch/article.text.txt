@@ -1,0 +1,64 @@
+Title: Gewinnspiel: 1x 'Der 4-Stunden Körper'
+
+----
+
+Description: Gewinne eine Kopie des "Der 4-Stunden Körper" Buchs
+
+----
+
+Date: 2013-03-02
+
+----
+
+PublishTime: 01:20
+
+----
+
+Category: Sonstiges
+
+----
+
+Tags: 
+
+----
+
+Text: Für alle die hier zwar mitlesen aber bisher noch keine Chance hatten das Buch zu lesen oder grad sowieso am Budgetlimit sind und daher das Buch noch nicht kaufen konnten, kommt dieses Gewinnspiel vermutlich gerade recht.
+
+Ein Leser unseres Blogs war so nett und hat uns ein Exemplar des "Der 4-Stunden Körper" Hardcovers zum Verlosen zur Verfügung gestellt.
+
+(lightbox: 4hb.jpg)
+
+Teilnehmen ist super einfach, hinterlasst einfach einen Kommentar hier unter dem Beitrag, schickt folgenden <a class="twitter popup" href="http://twitter.com/share?text=Ich%20will%20ein%20%22Der%204-Stunden%20K%C3%B6rper%22%20Buch%20beim%20%234HourGeeks%20Gewinnspiel%20gewinnen.">Tweet</a> ab (oder einen ähnlichen inkl. dem #4HourGeeks Hashtag und der URL) oder werdet Facebook Fan auf [unserer Seite](http://www.facebook.com/4hourgeeks) und hinterlasst einen Kommentar zum Eintrag zu diesem Artikel. Jeder Eintrag wirft euch eimal in den Lostopf, das heisst, ein Kommentar + ein Tweet + ein Facebook-Kommentar ergeben drei "Lose" = dreifache Gewinnchance.
+
+Der Rechtsweg ist natürlich ausgeschlossen und der Gewinner wird per Zufallsgenerator ermittelt. Teilnahmeschluss ist der 10.03.2013, der Gewinner wird danach gezogen.
+
+<script>
+  $('.popup').click(function(event) {
+    var width  = 575,
+        height = 400,
+        left   = ($(window).width()  - width)  / 2,
+        top    = ($(window).height() - height) / 2,
+        url    = this.href,
+        opts   = 'status=1' +
+                 ',width='  + width  +
+                 ',height=' + height +
+                 ',top='    + top    +
+                 ',left='   + left;
+    
+    window.open(url, 'twitter', opts);
+ 
+    return false;
+  });
+</script>
+
+----
+
+Author: Bastian
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla

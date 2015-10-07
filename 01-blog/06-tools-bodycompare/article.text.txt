@@ -1,0 +1,63 @@
+﻿Title: Bodycompare
+
+----
+
+Description: Macht Fotos von euch und vergleicht sie in einer schönen iOS App.
+
+----
+
+Date: 2012-06-12
+
+----
+
+Category: Tool
+
+----
+
+Tags: 
+
+----
+
+Text: **WARNUNG:** Dieser Post enthält Bilder von einem fetten Kerl in Unterwäsche. Wer das nicht verkraftet sollte hier nicht weiterlesen!
+
+Ein wichtiger Part des 4HB ist es in regelmäßigen Abständen Fotos von sich selbst zu machen. Diese einfache nur per Selbstauslöser zu machen und im Fotoarchiv aufzubewahren hat allerdings ein paar Nachteile:
+
+1. Leute könnten euch halb Nackt sehen während sie euer Fotoarchiv durchschauen.
+2. Wenn man so etwas wie Photostream oder einen automatischen facebook Post eingeschaltet hat, könnte das ganze noch peinlicher werden.
+3. Es ist nicht sehr leicht Vorher/Nachher Fotos zu vergleichen.
+4. Es ist scheisse!
+
+Aber, ratet mal, dafür gibt's eine App! Sie heisst (link: http://itunes.apple.com/de/app/body-compare-photo-weight/id455546537?mt=8 text: BodyCompare) und kostet 0,89€ im iTunes App Store.
+
+In der aktuellen Version ist BC ziemlich raffiniert. Es lässt einen Bilder von sich selbst, mittels Front- oder Rückseitiger Kamera und einem Selbstauslöser machen.
+Man kann je ein Foto von vorne, hinten, links und rechts pro Eintrag erfassen. So kann man später recht einfach Vergleiche aus unterschiedlichen Winkeln machen. Nach ein paar Tagen hat man dann eine Liste von Einträgen. Standardmäßig wird der erste Eintrag als "Vorher" markiert (man kann allerdings jeden beliebigen Eintrag als "Vorher" definieren).
+
+(lightbox: 01.png)
+
+Bei Druck auf "Compare" kann man sich das entsprechende Bild im Vergleich zum "Vorher" anschauen. Hier ist es auch möglich die unterschiedlichen Winkel auszuwählen.
+
+(lightbox: 02.png)
+
+Wenn es darum geht die Bilder sicher aufzubewahren, bietet BodyCompare die Möglichkeit einen 4-stelligen PIN zu definieren, mit dem sich die App dann entsperren lässt. So kann man auch sicher gehen, dass nur **man selbst** die Fotos sehen kann (ausser man ist bescheuert genug sie auf dem eigenen Blog zu posten).
+
+Wer keine separate App zur Gewichtserfassung wie ich nutzt (link: http://4hourgeeks.com/tools-mynetdiarycom text: MyNetDiary), kann auch zu jedem Foto das entsprechende Gewicht angeben. Im nachhinein hätte ich das wohl besser gemacht. Das gute ist allerdings, dass es möglich ist die Einträge auch im Nachhinein anzupassen, Ich werde die Gewichte also wahrscheinlich noch hinzufügen um die Daten zu komplettieren.
+
+Was die Einstellungen angeht, gibt es nicht viel. Aber um ehrlich zu sein benötigt man diese auch kaum. Alles was man einstellen kann ist die Standardansicht, die Gewichtseinheiten und ob man einen Zugangscode verwenden möchte oder nicht.
+
+(lightbox: 03.png)
+
+Es ist immer super herauszufinden, wenn der Entwickler einer App die man mag auch erreichbar ist und schnell auf Anfragen reagiert. Das ist bei Warren, dem Entwickler von BodyCompare, definitiv der Fall. So tut es noch weniger weh 0,89€ für diese App auszugeben.
+
+Meine Empfehlung: Ein muss für jeden 4HBler!
+
+----
+
+Author: Bastian
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla

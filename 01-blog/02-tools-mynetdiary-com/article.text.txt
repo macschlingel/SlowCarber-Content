@@ -1,0 +1,47 @@
+﻿Title: mynetdiary.com
+
+----
+
+Description: mynetdiary - eine praktische App um alles im Auge zu behalten
+
+----
+
+Date: 2012-04-06
+
+----
+
+Category: Tool
+
+----
+
+Tags: 
+
+----
+
+Text: Eine der wichtigsten Dinge beim "4 Stunden Körper" ist es, den Überblick über Gewicht, Körperfettanteil und Körpermaße zu behalten. So ist man sich dauerhaft über die Auswirkungen auf den Körper bewusst und kann unterscheiden, ob man bspw. Gewicht aufgrund d von Fett oder Muskeln zugenommen hat. Natürlich kann man dies mit Hilfe von Stift und Papier, einer Tabelle oder spezieller Datenbanken festhalten. Ich habe mich allerdings aus folgenden Gründen gegen diese Möglichkeiten entschieden:
+
+- Ich möchte das meine Lösung automatisch Diagramme erstellt
+- Ich will das sie vollständig auf meinem iPhone funktioniert
+- Die Lösung sollte ein Web backend haben, sodass Ich meine Daten von überall einsehen kann
+
+In dem Buch empfiehlt Tim den DailyBurn Tracker und Ich muss sagen, das Beste daran ist das App Icon, der Rest ist Müll. Es ist teuer (monatliche Kosten) und bietet in der mobilen App nicht alle Funktionen. Um z.B. Maße zu erfassen muss man die Website aufrufen. Außerdem ist es sehr auf Kalorien fixiert und da es bei der SCD kein Kalorienzählen gibt, brauche Ich das nicht.
+
+Nachdem Ich ein paar andere Apss ausprobiert hatte, habe Ich letztendlich MyNetDiary gefunden. Lasst euch von dem Namen nicht täuschen - es ist kein gewöhnliches Tagebuch sondern ein Tool zur Erfassung von Gewicht und Körpermaßen. Es wird auch eine Premiummitgliedschaft angeboten, welche in etwa das gleiche kosten wie DailyBurn, diese wird aber für die wichtigen Dinge nicht benötigt.
+
+Meine Empfehlung ist, holt euch die (link: http://itunes.apple.com/app/mynetdiary-pro-calorie-counter/id352247139?mt=8 text: MyNetDiary Pro App) fürs iPhone (die Android App wird vermutlich das gleiche tun) und meldet euch für die kostenlose Mitgliedschaft an. Dort könnt ihr Gewicht, Körperfettanteil sowie Abmaße für die vorgeschlagenen Körperteile erfassen. Der einzige Nachteil: Es gibt kein Feld für die Gesamtabmaße des Körperumfangs, aber naja. Die Web app zeigt einem Graphen und Vergleichsmöglichkeiten, also so ziemlich alles was Ich brauche.
+
+Solltet ihr euch anmelden, lasst es mich wissen - es gibt eine Art Kundenwerbung.
+
+(gallery: 01.png 02.png 03.png 04.png 05.png)
+
+----
+
+Author: Bastian
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: disqus

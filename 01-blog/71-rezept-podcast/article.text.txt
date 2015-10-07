@@ -1,0 +1,45 @@
+Title: Der SlowCarber Rezept-Podcast
+
+----
+
+Description: Rezepte, Live aus der Küche
+
+----
+
+Date: 2015-02-16
+
+----
+
+PublishTime: 10:00
+
+----
+
+Category: Sonstiges
+
+----
+
+Tags: podcast, rezepte
+
+----
+
+Author: basti
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla
+
+----
+
+Text: 
+Bei einem "achtlosen” Essenstweet kommt oft die Nachfrage _“Hast du da mal ein Rezept?”_ und meistens hat man in dem Moment keine Zeit es aufzuschreiben und später hab ist es vergessen.   
+Deswegen diktieren wir euch jetzt Rezepte. Direkt in der Küche. Direkt am Tatort.  
+Natürlich landet das ganze in einem [Podcastfeed](http://feeds.slowcarber.de/rezepte-podcast).  
+Die Audioqualität ist nicht so gut wie beim normalen Podcast und manchmal ist es auch etwas chaotisch aber besser als nix :).  
+Schaltet mal rein und sagt uns was ihr davon haltet.
+
+Wir fange die Rezeptereihe an mit der [Burrito Omelettfüllung](https://audioboom.com/boos/2898160-omletteburrito-fullung) und dem [eigentlichen Burrito](https://audioboom.com/boos/2899447-omletteburrito-zusammensetzung).
+(lightbox: preview.jpg)

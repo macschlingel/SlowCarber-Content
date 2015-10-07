@@ -1,0 +1,61 @@
+Title: Jabra ROX Wireless
+
+----
+
+Description: Sehr gut für Alltag und Sport
+
+----
+
+Date: 2014-07-28
+
+----
+
+Category: Gadget
+
+----
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+----
+
+Author: Basti
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla
+----
+Text:
+Nachdem [Micha][1] mein erstes Review zu Bluetooth Kopfhörern gelesen hatte, fiel ihm wohl auf, dass hier Jabra nicht vertreten ist. Nachdem er gerade erst selbst ein [Review][2] der Rox Wireless geschrieben hatte, wies er die Jabra PR darauf hin und prompt hatte ich zwei Bluetooth Modelle von Jabra in der Post.
+(lightbox: rox-wireless1.jpg)
+Mit etwa 130€ besetzt der [ROX Wireless][3] in meinem Test ganz klar die Oberkante der Preisskala. Zu recht? Zu recht!
+Die Öhrhörer sehen nicht aus wie Hörgeräte, sind also schonmal alltagstauglich.
+Erster Pluspunkt.
+Dann, sind sie aus Stahl. STAHL! Das ist ein riesen Plus für die Haptik (und vermutlich auch für die Robustheit). Selbst die Lautstärkeregelung im Kabel ist zum Teil aus Metall. Zusammen mit der eleganten Verpackung und der sonstigen Verarbeitungsqualität ist das schon ziemlich “Premium”.
+Das nächste ist der Klang. Und der ist auf Augenhöhe mit dem Preis: Ganz oben im Testfeld. Satte Bässe, klare Höhen. Ausgewogen. Wenn man will, kann der ROX Wireless auch richtig Laut. Für meine Verhältnisse zu Laut, aber jeder wird vermutlich gerne anders taub. Wer das mit dem ROX Wireless machen will, bekommt das sicherlich hin.
+Viele Pluspunkte bekommt der ROX Wireless für kleine Extras bei den sich jemand wirklich Gedanken gemacht hat.
+
+1. Die “Ohr-Anker”: Mit dem richtigen Silikonpolster (es kommen insgesamt 3 verschiedene) sitzen die ROX auch so sehr gut im Ohr und fallen nicht einfach raus, beim Laufen kann das aber schonmal passieren. Um dem vorzubeugen kommt der Ohrhörer mit kleinen Ankern aus Silikon, die man über den Ohrhörer zieht und sich dann in eine Falte in der Ohrmuschel steckt. Drück nicht, sitzt aber besser als die gewähnlichen Schlaufen die man von anderen Ohrhörern kennt. Leider muss man sie nach dem Herausnehmen meist wieder am Ohrhörer justieren. Es ist nicht ganz einfach zu kapieren wie man die Anker richtig anbringt, deswegen gibt es dazu ein [Video][4] von Jabra.
+2. Ein Kabelclip hält das Kabel hinter dem Kopf zusammen. Damit verringert man sehr effektiv Kabelgeräusche beim Laufen prakticsh auf Null. Wie auch beim Sport Wireless+ sehe ich mich diesen Clip bald verlieren. Also gut drauf aufpassen!
+	(lightbox: rox-wireless2.jpg)
+3. NFC! Ja, NFC. Für alle die, die ein NFC fähiges Smartphone ihr Eigen nennen, können den Kopfhörer einfach per NFC pairen. Smartphone an den Lautstärkeregler halten. Fertig. Hier muss ich Jabra glauben dass das so funktioniert, da ich “nur” ein iPhone habe.
+4. Magnete! Es gibt wenig, was nicht mit Magneten cooler wird. Der ROX Wireless hat in der Kappe der Ohrhöhrer Magnete eingebaut, damit man sie vor dem Hals zusammenclippen kann. So rutschen die Ohrhörer bei nichtbenutzung nicht mehr vom Hals. Allerdings hat die Sache noch ein Zusatzfeature: Sobald man man die Magnete zusammenclipt, schaltet sich der Ohrhörer ab und un-pairt sich mit dem Smartphone. Wenn man ihn wieder löst, verbindet er sich wieder. Spart Strom und ist ein nettes und nützliched Gimmick.
+	(lightbox: rox-wireless3.jpg)
+5. Akkulaufzeit: 4,5 - 5h auf einer Akuladung sind realistisch. Da kommt nur der Plantronics Backbeat 903+ ran.
+
+Die Bluetoothverbindung ist solide und hat nur etwa 1-3 Aussetzer/10 Min. Damit kann man Leben.
+
+__Fazit:__
+
+* \+ Extrem guter Klang, Guter Sitz, durchdachte Details
+* \- Relativ Teuer
+* Akkulaufzeit: ca 4,5-5h
+
+
+[1]:	https://twitter.com/amujan
+[2]:	http://www.stereopoly.de/jabra-rox-wireless-test/
+[3]:	http://www.amazon.de/gp/product/B00HO3QIYS/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00HO3QIYS&linkCode=as2&tag=digital0c-21
+[4]:	https://www.youtube.com/watch?v=p4J_oSMsh9M

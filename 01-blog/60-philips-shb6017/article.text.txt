@@ -1,0 +1,44 @@
+Title: Philips SHB6017
+
+---- 
+
+Description: Noch nicht gut
+
+---- 
+
+Date: 2014-07-24
+
+---- 
+
+Category: Gadget
+
+---- 
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+---- 
+
+Author: Basti
+
+---- 
+
+Flattr: schlingel
+
+---- 
+
+Comments: vanilla
+---- 
+Text:
+Wenn Philips etwas drauf hat, sind es griffige Produktnamen. Nichts geht leichter von der Zunge als [Philips SHB6017][1].
+(lightbox: philips.jpg)
+Im Vergleich zum Modell von Denon wirken die Philips etwas billig, sind aber auch nur gut halb so teuer. Das Aufsetzen und Anpassen dieser Ohrhörer ist schwieriger als beim Modell von Denon und sitzt auch nicht so gut. Ab und zu löst sich ein Stöpsel bei mir, trotz richtiger Einstellung über einen genoppten Schaft (ja, das klingt irgendwie seltsam).  Der Sound ist in Ordnung, nix Audiophiles aber absolut in Ordnung.
+Aber zum wichtigen Test: iPhone auf Hüfthöhe und nix wie raus. Beim Gehen vereinzelt mal ein Aussetzer, verschmerzbar. Sobald ich aber anfange zu laufen etwa ein Aussetzer alle 3-5 Sekunden. Das ist deutlich besser als beim Denon aber immer noch unerträglich. Eigentlich möchte man meinen, dass eine Verbindung von 60cm keine Raketenwissenschaft ist. So werden der Philips und ich auch keine Freunde. Wie beim Denon geht es mit dem Telefon am Arm. Vermutlich auch, wenn man es sich mit Klebeband am Kopf befestigt.
+
+__Fazit:__
+
+* \+ Guter Klang, Durch Ormuschel-Befestigung recht guter Sitz
+* \- Schlechte Bluetooth Verbindung
+* Akkulaufzeit: Nicht lang genug getestet
+* Aussetzer: 50-75/10min
+
+[1]:	http://www.amazon.de/gp/product/B004NROUFM/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B004NROUFM&linkCode=as2&tag=4hg-21

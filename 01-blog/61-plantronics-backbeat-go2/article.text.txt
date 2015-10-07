@@ -1,0 +1,48 @@
+Title: Plantronics BackBeat Go2
+
+---- 
+
+Description: Ideal für den Alltag, okay für den Sport
+---- 
+
+Date: 2014-07-25
+
+---- 
+
+Category: Gadget
+
+---- 
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+---- 
+
+Author: Basti
+
+---- 
+
+Flattr: schlingel
+
+---- 
+
+Comments: vanilla
+---- 
+Text:
+Nachdem [Stephan][1] beim [TouchTalk Podcast][2] überschwänglich die [BackBeat Go2][3] gelobt hat, frage ich bei Plantronics nach, ob ich mir so einen leihen kann. Kurz darauf liegt er hier und ist im Vergleich winzig.
+(lightbox: backbeatgo2.jpg)
+Der Go2 hat keine Bügel die über die Ohrmuschel gehen sondern nur relativ kleine Stöpsel und ein Kabel mit Fernbedienung. Mein erster Gedanke “Der Akku kann nicht mehr als 30 min halten”. Von wegen. 1.5h gehen damit locker. Und klingen tun sie auch gut.
+Das “montieren” ist dank der fehlenden Bügel extrem einfach, allerdings sitzt der Go2 deswegen natürlich nicht so fest wie der Denon und Philips. Es passiert innerhalb von 30 min Laufen schon 2-3 mal, dass sich ein Stöpsel langsam löst. Ein Griff und er sitzt wieder. Beim Radfahren bspw löst sich hier nichts.
+Und wieder der Verbindungstest: Gehen, die Verbindung hält. Laufen, die Verbindung hält. Während den 30 min Laufen kein einziger Aussetzer. Um Aussetzer zu erzeugen muss man das iPhone im ersten Stock auf die Spülmaschine legen und in den Keller gehen, in der Kellertür der erste Aussetzer. In der Werkstatt im Keller (2 Decken und 2 Wände dazwischen) sind die Aussetzer immer noch weniger als mit dem Denon).
+Beim Laufen zeigt sich aber ein Nachteil des Go2: Durch die fehlenden Ohrbügel und dadurch dass das Kabel zwischen den Stöpseln direkt am Stöpsel hängt hört man die Schritte beim Laufen recht stark da das Kabel bei jedem Schritt nach unten zieht. Man gewöhnt sich zwar dran, aber lieber wäre es mir ohne. Beim Radfahren bspw. ist das gar kein Problem.
+Bonusfeature: Der Go2 kommt mit einem kleinen Täschen mit eingebautem Akku in dem man den Ohrhörer ca 3x aufladen kann. Damit ist der Ohrhörer immer Einsatzbereit.
+
+__Fazit:__
+
+* \+ Guter Klang, einfaches Einsetzen, optisch alltagstauchlich
+* \- Kein idealer Sitz beim Laufen, Schrittgeräusche beim Laufen
+* Akkulaufzeit: ca 1h
+* Aussetzer: 1-3/10min
+
+[1]:	http://www.twitter.com/tirolercast
+[2]:	http://www.touchtalk.at
+[3]:	http://www.amazon.de/gp/product/B00FLKRDRW/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00FLKRDRW&linkCode=as2&tag=4hg-21

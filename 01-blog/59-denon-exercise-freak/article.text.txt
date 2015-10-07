@@ -1,0 +1,46 @@
+Title: Denon Exercise Freak
+
+---- 
+
+Description: Vor der Tür in’d Hos gschissn
+
+---- 
+
+Date: 2014-07-23
+
+---- 
+
+Category: Gadget
+
+---- 
+
+Tags: ohrhörer, sport, kopfhörer, musik, plantronics, denon, philips, bluetooth
+
+---- 
+
+Author: Basti
+
+---- 
+
+Flattr: schlingel
+
+---- 
+
+Comments: vanilla
+---- 
+Text:
+Das erste Modell dass den Weg zu mir findet sind die [Denon Exercise Freak][1]. Denon ist bekannt für ordentliche Receiver/Verstärker, also erwartet man (besonders bei 100€) etwas gutes.
+(lightbox: denon.jpg)
+Die Verarbeitung ist solide, die Farben auffällig und wenn man sie mal ins Ohr gefummelt hat sitzen sie auch super (zumindest bei meinen Ohren). Bei [Felix][2] halten die Exercise Freak jedoch nicht. Der Sound ist in Ordnung, wenn auch für meinen Geschmack zu basslastig. Auch bei höherer Lautstärke verzerrt hier nichts.
+Also nix wie ab auf und in die Ohren, iPhone auf Hüfthöhe und raus zum laufen. Schon beim gehen setzt die Musik ab und zu aus, sobald man anfängt zu laufen hört man zwischen den langen Aussetzern ab und zu noch einen Fetzen Musik. Bleibt man stehen und atmet wenig hat man meist eine stabile Verbindung, wenn man sich mit dem Oberkörper leicht nach vorne neigt bleibt die Verbindung stabil. Das Problem ist, für “stehend, nach vorne geneigt” bin ich der falsche Lauftyp. Ich bevorzuge “aufrecht, laufend” und ganz wichtig: “mit Musik ohne Aussetzer”. Für mich also nicht der richtige Ohrhörer.
+Wenn man allerdings sein Smartphone an einem Sportarmband am Oberarm trägt bleibt die Verbindung meist stabil.
+
+__Fazit:__
+
+* \+ Guter Klang, Super Sitz, hochwertige Verarbeitung.
+* \- Unfassbar schlechte Bluetooth Verbindung.
+* Akkulaufzeit: Nicht lang genug getestet
+* Aussetzer: 200-400/10min
+
+[1]:	http://www.amazon.de/s/?_encoding=UTF8&camp=1638&creative=19454&keywords=exercise%20freak&linkCode=ur2&qid=1401580060&rh=n%3A617061011%2Ck%3Aexercise%20freak&rnid=1703609031&site-redirect=de&tag=4hg-21
+[2]:	http://www.twitter.com/felixkling

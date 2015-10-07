@@ -1,0 +1,47 @@
+﻿Title: Wahoo Blue HR
+
+----
+
+Description: Ein Bluetooth 4.0 Herzfrequenz-Brustgurt
+
+----
+
+Date: 2012-06-19
+
+----
+
+Category: Gadget
+
+----
+
+Tags: 
+
+----
+
+Text: Nach einiger Zeit mit der SCD habe ich wieder mit dem Sport angefangen, mein Favorit ist dabei das Inline skaten.
+
+Als "Quantified Self"-Enthusiast erfasste ich meine Sessions mit runtastic und merkte das ich es teilweise etwas übertrieb. Dafür gibt es einen guten Indikator: Die Herzfrequenz.
+
+Es gibt (link: http://en.wikipedia.org/wiki/File:Exercise_zones.png text: Tabellen), in denen man einsehen kann, mit welcher Herzfrequenz man trainieren sollte.
+
+Ich brauchte also ein Herzfrequenzmessgerät welches ohne zusätzliche Stecker an meinem iPhone funktionierte und welches von der runtastic app unterstützt wurde.
+
+Zu dem Zeitpunkt zu dem ich es kaufte, gab es lediglich eins: Das Wahoo Blue HR. Es verbindet sich mittels Bluetooth 4.0 und erledigt seine Aufgabe. Während der Benutzung merke ich nicht einmal, dass ich es trage, wenn ich es korrekt angelegt habe.
+
+Mit runtastic (oder einer anderen bevorzugten App) erhaltet ihr dabei ein Diagramm eures Workouts.
+
+(gallery: 01.jpg 02.jpg 03.jpg)
+
+Übertreibt es nicht (so wie ich).
+
+----
+
+Author: Tobias
+
+----
+
+Flattr: iStehle
+
+----
+
+Comments: disqus

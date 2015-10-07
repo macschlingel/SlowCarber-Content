@@ -1,0 +1,82 @@
+Title: Kptn Cook - Die schlechteste, beste Rezepte App (Update vom 09.09.2014)
+
+----
+
+Description: Gute Rezepte, schlechte App
+
+----
+
+Date: 2014-05-22
+
+----
+
+Category: Tools
+
+----
+
+Tags: app, iphone, rezepte
+
+----
+
+Text:
+Wenn ich etwas koche und in bester Hipstermanier danach ein Foto vom (zumindest optisch) gelungenen Essen poste, kommen oft die Nachfragen nach Rezepten.
+Nicht immer, oder fast nie, habe ich Zeit dazu aber um ehrlich zu sein schummle ich in letzter Zeit ganz oft. Viele Rezepte hab ich mir gar nicht selber ausgedacht.
+Müsste ich mir jeden Tag im Büro aufs neue etwas ausdenken, das lecker ist, gut aussieht und auch meine Kollegen (die meist mitbekocht werden) erfreut, würde ich bekloppt werden.
+
+Vor kurzem wieß mich ein [Freund](http://www.twitter.com/mczonk) auf die recht hübsche iPhone-App [Kptn Cook](http://www.kptncook.com/) hin.
+
+(lightbox: IMG_2652.PNG)
+Das Konzept ist so simpel wie genial: Jeden Tag gibt es 3 Rezepte, diese sind nur für den einen Tag da und am nächsten Tag gibt es neue.
+Zugegeben ab und zu kommen alte Bekannte zurück, allerdings eher selten.
+Nicht jedes Rezept ist SlowCarb kompatibel, manchmal gibt es auch Tage da ist gar nichts dabei was so wie es ist gekocht und bedenkenlos gegessen werden kann, aber wir sind ja nicht auf den Kopf gefallen.
+Es gehört Mascarpone in die Suppe? Kein Problem, wird mit Hüttenkäse ersetzt. Leckere Kichererbsensachen mit Reisbeilage? Statt echtem Reis tut es auch unser [Fake Reis](http://4hourgeeks.de/food-fake-rice)
+Mit einem kleinen bisschen gedanklicher Flexibilität kann sich jeder die Gerichte SlowCarb-Kompatibel machen. Allerdings sind viele Rezepte dabei, die so wie sie sind passen.
+
+(lightbox: IMG_2656.PNG)
+Was ist nun wenn man heute ein tolles Rezept sieht, aber nicht zum Kochen kommt oder schon andere Pläne hat? Morgen ist es ja weg, oder?
+Man kann sich jedes Rezept mit einem Tap auf ein Herzchen zur Favoritenliste hinzufügen, somit kommt man immer an alte Rezepte ran. Und das passiert oft, denn die Menge fantastischer Rezepte ist wirklich nicht zu verachten.
+
+(lightbox: IMG_2653.PNG)
+Wenn man sich ein Rezept ausgesucht hat, bekommt man eine Liste mit Dingen, die man Einkaufen muss und in der App abhaken kann. Als Läden werden Rewe, BioCompany oder Kaiser's Berlin empfohlen - man kann das Zeug natürlich auch überall kaufen. Aus den Einkaufspreisen in den Läden errechnet [Kptn Cook](http://www.kptncook.com/) dann einen Preis für das Gericht.
+Dieser Preis ist natürlich totaler Unsinn. Zugegeben, hat man gar nix daheim, muss man für die Zutaten für einen Mexikanischen Salat mit Tortilla Chips (nicht SCD kompatibel) schonmal 13,80€ hinlegen, aber dass man nur ein viertel der Zutaten braucht steht da erstmal nicht.
+Was ich damit sagen will: lasst euch nicht von den horrenden Preisen "für 2 Personen" abschrecken.
+
+Hat man alles eingekauft, hat man eine meist sinnvolle Kochanleitung die man alternativ auch zu einer Schritt für Schritt-Fotoanleitung umschalten kann. Meiner Meinung nach könnte alles mehr in Vorbereitung und Zubereitung getrennt werden, aber das ist vermutlich persönliche Ansichtssache.
+(lightbox: IMG_2654.PNG) (lightbox: IMG_2655.PNG)
+
+__Wir fassen also vorerst zusammen:__
+[Kptn Cook](http://www.kptncook.com/) ist eine schöne App, mit abwechslungsreichen und leckeren Rezepten, brauchbaren Anleitungen und guten Fotos, die obendrein nichts kostet.
+
+__Warum zum Geier ist es dann die "schlechteste, beste Rezepte App"?__
+Weil die Entwickler nicht alle Latten am Zaun haben und ihre App vermutlich niemals auf einem echten, Alltags-iPhone benutzt haben. Ich weiss gar nicht recht wo ich anfangen soll.
+Von Caching haben die noch nie was gehört. Jedes mal wenn man ein Rezept öffnet, wird es neu geladen. Das dauert je nach Verbindung schonmal sehr lange (bis zu mehrere Minuten auf EDGE).
+Ausserdem verhindert die App nicht, dass das iPhone während der Benutzung in Standby geht. Ich weiss nicht wie es euch geht, aber ich brauche meist schon mehr als 2 Minuten um zu kochen. Leider schaltet sich nach 2 Min das iPhone in den Standby Modus.
+Also erstmal mit schmierigen Fingern das iPhone entsperren. Hatte ich erwähnt dass die App kein Caching macht? Nach dem entsperren sieht man für einen Bruchteil einer Sekunde die letzte Position, bevor [Kptn Cook](http://www.kptncook.com/) alles neu lädt und zum ersten Rezept springt.
+Jetzt muss ich also erstmal wieder zum richtigen Rezept blättern oder sogar etwas umständlich in meine Favoritenliste wechseln. Hatte ich gesagt dass hier nix gecached wird? Die Favoritenliste begrüßt einen daher immer erstmal mit einem "Du Hast keine Favoriten", bis diese Online nachgeladen wurden.
+Dann wählt man das Rezept der Wahl, swipt etwas umständlich zur Anleitung und kocht wieder für 2 Minuten. Irgendwann zerhackt man dann aus Wut das iPhone mit dem teuren japanischen Küchenmesser und ärgert sich, dass es keine Android Version gibt die man auf einem günstigeren Gerät laufen lassen kann.
+Beim durchblättern sieht man dann plötzlich, dass es eine "Teilen" Funktion des Rezepts gibt und freut sich "Da schicke ich mir einfach das Rezept und komme dann viel einfacher dran." - Denkste. Die Teilen Funktion verschickt DAS TITELBILD DES GERICHTS ZUSAMMEN MIT SEINEM NAMEN. __WHAT THE FLYING FUCK?!__
+
+__Aber:__
+Man gewöhnt sich allerdings irgendwie dran. Nicht zuletzt weil die Rezepte einfach super sind. Meist isst man nach dem Kochen und da die Gerichte eigentlich immer super schmecken wie die Bilder es sugerieren ist man dann auch wieder beruhigt.
+
+Deswegen empfehle ich [Kptn Cook](http://www.kptncook.com/) auf jeden Fall jedem der öfters mal nach Inspirationen zum Mittag oder Abendessen sucht. Ein paar gute Nerven schaden allerdings nicht.
+
+
+Falls jemand das ganze (besonders den Rage-Teil) auch mit Audio und Video erleben will, dem sei diese [Bits und so Sendung](http://youtu.be/TqdXppHr2oY) ans Herz gelegt.
+
+__Update:__
+Nachdem dieser Artikel veröffentlicht wurde, hatte ich einen längeren Chat mit den Leuten hinter KptnCook und kann nun etwas besser nachvollziehen warum alles so ist wie es ist.
+Das Team besteht aus drei Personen, von den einer die App programmiert, allerdings nur Teilzeit da alle ja auch kochen, fotografieren und schreiben müssen. Des weiteren will auch ein Backend CMS gepflegt werden, in dem alle Rezepte residieren.
+Nach der kürzlichen, erfolgreichen Funding Runde ist man aber optimistisch aufstocken zu können um die Probleme, die dem Team durchaus bekannt sind, angehen zu können.
+Ich bleibe gespannt, und kann auch nach Monaten KptnCook als Inspirationsquelle und Anleitung trotz der technischen Unzulänglichkeiten weiterhin empfehlen.
+----
+
+Author: Basti
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla

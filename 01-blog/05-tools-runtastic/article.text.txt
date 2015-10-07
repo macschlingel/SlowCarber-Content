@@ -1,0 +1,45 @@
+﻿Title: Runtastic
+
+----
+
+Description: Wenn euch danach ist eure sportlichen Aktivitäten festzuhalten, ist runtastic eine großartige mobile App
+
+----
+
+Date: 2012-05-18
+
+----
+
+Category: Tool
+
+----
+
+Tags: 
+
+----
+
+Text: Zu aller Erst: Ich weiss, dass das Buch sagt, man braucht keinen Sport zu machen und das stimmt auch absolut. wenn man aber erstmal 15kg verloren hat kann es passieren, dass man plötzlich Spaß am Sport findet. Das ist mir zumindest passiert.
+Ich habe es immer geliebt Fahrrad zu fahren, aber mit einem Bauch wie meinem... naja, ihr könnt es euch denken :)
+Mit spürbar weniger Bauch habe ich die liebe zum Radfahren wieder entdeckt und das funktioniert bei mir als Geek nur mit etwas Geek-Kram.
+Hier kommt (link: http://clk.tradedoubler.com/click?p=24380&amp;a=1678350&amp;url=http%3A%2F%2Fitunes.apple.com%2Fde%2Fapp%2Froad-bike-pro-fahrrad-computer%2Fid468429333%3Fmt%3D8%26uo%3D4%26partnerId%3D2003 text: runtastic roadbike PRO) ins Spiel. Diese iPhone App erfasst so ziemlich alles, was es zu einer Tour mit dem Fahrrad zu erfassen gibt. Dauer, Geschwindigkeit, Durchschnitts- und Höchstgeschwindigkeit, Distanz, Höhenmeter, Steigungen, Gefälle, Herzfrequenz, Trittfrequenz und verbrannte Kalorien. Einige davon (bspw. die Herzfrequenz) benötigen zusätzlich externe Sensoren.
+
+(lightbox: 01.png)
+
+Alle angezeigten Werte können personalisiert werden. Während man fährt, wird die Tour auf einer Karte markiert. Um Batterie und Datenverbrauch zu sparen, kann man auch Karten vorab herunterladen um diese offline zu verwenden.
+Sobald man bereit ist loszulegen, drückt man den Start Button, wartet den Countdown ab und legt dann los. Wenn man Kopfhörer trägt, werden einem zudem nützliche, personalisierbare Parameter, wie bspw. die Distanz, per Sprachausgabe mitgeteilt.
+Stellt sicher, dass ihr einen Powersong habt, der euch den notwendigen Ansporn gibt, wenn man ihn braucht.
+Bevor man loslegt, sollte man sich auch Gedanken darüber machen die geplante Tour per Twitter und/oder Facebook zu sharen, da dies euren Angehörigen die Möglichkeit gibt euch zu ermutigen. Sobald jemand auf den Cheer Button drückt, kann man ein Jubeln über die Kopfhörer hören (Das funktioniert am besten wenn man Freunde hat - Sorry, forever alone guy). Nicht wirklich notwendig, aber ein sehr nettes Feature.
+Sobald man fertig ist, kriegt man eine Zusammenfassung angezeigt, die sich ebenfalls sharen lässt.
+Braucht man runtastic roadbike? Wenn man einen guten Fahrradcomputer hat wahrscheinlich nicht, trotzdem ist es ein "nice to have". Auf der anderen Seite, ist es mit 3,99€ etwas teurer. Man testet wohl erst einmal die Gratisversion mit weniger Funktionen oder wartet auf eine Promoaktion, welche relativ häufig stattfinden. Wer eher fürs Laufen oder Mountainbiking ist, kriegt auch dafür eine gesonderte App. Alle runtastic Apps gibt es (link: http://appsuche.touchtalk.at/index.php?search=runtastic&amp;type=iPhone+%2B+iPod+Touch text: hier).
+
+----
+
+Author: Bastian
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: disqus

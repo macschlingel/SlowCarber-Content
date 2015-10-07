@@ -1,0 +1,86 @@
+Title: Team
+
+----
+
+Description: About the guys blogging here
+
+----
+
+Text: <a id="Bastian"></a>
+**Bastian "schlingel" Wölfle**
+(lightbox: bastian.jpg)
+(lightbox: bastian-v-n.jpg)
+
+- Podcaster bei [DigitalUpgrade](http://www.digitalupgrade.de), [Bits und so](http://www.bitsundso.de) und hier
+- Blogger bei [schlingel.me](http://www.schlingel.me) und hier
+- [Fotograf](http://photo.schlingel.net)
+- Video Guy
+- Startgewicht: 110kg auf 1,70m
+- (link: http://www.twitter.com/schlingel text: @schlingel)
+
+<a id="Tobias"></a>
+**Tobias**
+(lightbox: tobias.jpg)
+
+- QS Fanboy
+- Taucher/Inlineskater
+- Student @ HSKA
+- Kocht gerne
+- Postprivacy Spacko
+- (link: http://www.twitter.com/iStehle text: @iStehle)
+
+<a id="Jam"></a>
+**Jam**
+(lightbox: jam.jpg)
+
+- Ist Kind geblieben
+- Hat nach der Schule mal studiert
+- Arbeitet zu viel im Büro
+- Schreibt und produziert das Hörspiel "(link: http://www.2080online.de text:2080 - Der Podcast)" ((link: https://itunes.apple.com/de/podcast/2080-der-podcast/id320949728?mt=2 text:iTunes))
+- Blogte & podcastete schon einmal
+- Ist und bleibt ein Serien- und Filmfreak
+- Spielt zu selten Basketball
+- Kann zynisch sein
+- Wog mal 98kg bei 1,75 m
+- (link: http://www.twitter.com/jam2000 text: @jam2000)
+
+<a id="Lukas"></a>
+**Lukas**
+(lightbox: lukas.jpg)
+
+- Serienjunkie
+- Student
+- liebt die Musik
+- Boxer
+- Sportbegeistert (inzwischen ;) )
+- Startgewicht: 133kg bei 1,91m
+- (link: http://www.twitter.com/TheAssmann text: @TheAssmann)
+
+<a id="Arne"></a>
+**Arne**
+(lightbox: arne.jpg)
+
+- Hobbygeek und -Gadgetfreund
+- 'digital native'
+- fertig studierter, aber unpraktischer Theologe
+- bastelt auch gern an Websites
+- Videospiel-, Serien- und Filmfreak
+- macht den Geekpodcast (link: http://www.dirtyminutesleft.de text: Dirty Minutes Left)
+- hat per Slow-Carb schon mal 12kg abgenommen
+- spielt gerne, aber eher nanogut Gitarre
+- (link: http://www.twitter.com/codenaga text: @codenaga)
+
+
+<a id="Thomas"></a>
+**Thomas**
+(lightbox: thomas.jpg)
+
+- kennt noch 5 1/4 Zoll-Disketten ... und COBOL!
+- betreibt (link: http://www.kochen-ohne-laktose.de text: www.kochen-ohne-laktose.de)
+- ist freiberuflicher Projektleiter
+- fängt sich sein Essen gerne selbst
+- fotografiert gerne (link: http://www.ein-tag-ein-bild.de text: www.ein-tag-ein-bild.de)
+- ist Wochenend-Koch und Möchtegern-Gourmet
+- (daher) Startgewicht: 115 kg auf 1,87
+- (link: http://www.twitter.com/thomas_weller text: @thomas_weller)
+- ADN: (link: http://alpha.app.net/thomasweller text: thomasweller)

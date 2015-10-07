@@ -1,0 +1,39 @@
+﻿Title: Das 4HourGeeks Forum
+
+----
+
+Description: 4HourGeeks ab sofort auch mit Forum
+
+----
+
+Date: 2013-02-23
+
+----
+
+Category: Technisches
+
+----
+
+Tags: 
+
+----
+
+Text: Nachdem einige von euch gefragt haben und in dem Kommentaren schon forenähnliche Diskussionen stattfinden, haben wir uns entschieden doch ein Forum anzubieten. 
+Das Problem an einem Forum ist, dass wir hier sehr gut aufpassen müssen, was passiert da wir dank [Störerhaftung](http://de.wikipedia.org/wiki/St%C3%B6rerhaftung) schnell haftbar für Foreninhalte sind.
+Daher bitten wir euch um einen netten, hilfsbereiten Umgangston und darum Beiträge zu melden, bei den Zweifel angebracht sind (sei es Span, oder Hassbeiträge).
+Der schöne Nebeneffekt des Forums ist, dass man es auch als Kommentarsystem für den Blog nutzen kann und somit eine Blogdiskussion gleichzeitig auch im Forum stattfindet. Alle neuen Blogeinträge haben daher auch ab sofort das neue Kommentarsystem.
+Und als letztes: Wir wünschen uns natürlich, dass das Forum besonders für euch hilfreich und sinnvoll ist. Wenn ihr also Verbesserungsvorschläge habt oder die ein oder andere Kategorie fehlt, sagt uns doch bitte im "Rund um den Blog" Forum bescheid.
+
+Und jetzt, ab ins [Forum](http://www.4hourgeeks.de/forum)
+
+----
+
+Author: Bastian
+
+----
+
+Flattr: schlingel
+
+----
+
+Comments: vanilla
