@@ -1,4 +1,4 @@
-﻿Title: 4HB Salsa
+Title: 4HB Salsa
 
 ----
 
@@ -18,9 +18,9 @@ Tags:
 
 ----
 
-Text: Ich habe dieses Rezept bereits vor einer Weile auf meinem Blog (link: http://www.VeggieFoodPorn.com text: VeggieFoodPorn.com) gepostet und ich koche es immernoch etwa alle zwei Wochen.
+Text: 
 
-Um meine SCD Mahlzeiten ohne viel Aufwand aufzupeppen (was besonders wichtig ist wenn man bspw. auf der Arbeit kocht wo man nur eingeschränkten Zugang zu einer Küche und wenig Zeit hat), ist es einerseits wichtig eine Grundlage zu haben die gut schmeckt und andererseits auch viel Gemüse und Hülsenfrüchte beinhaltet, was mir wichtig ist. So brauche ich bloß etwas Soya oder (link: http://4hourgeeks.com/food-bean-thread-noodles text: Glasnudeln) und etwas gefrorenes Gemüse und mit etwas von dieser Salsa ist die Mahlzeit fertig.
+Um meine SCD Mahlzeiten ohne viel Aufwand aufzupeppen (was besonders wichtig ist wenn man bspw. auf der Arbeit kocht wo man nur eingeschränkten Zugang zu einer Küche und wenig Zeit hat), ist es einerseits wichtig eine Grundlage zu haben die gut schmeckt und andererseits auch viel Gemüse und Hülsenfrüchte beinhaltet, was mir wichtig ist. So brauche ich bloß etwas Soya oder [Linsen](http://www.slowcarber.de/blog/slowcarb-pasta-rote-linsen)/[Kichererbsennudeln](http://www.slowcarber.de/slowcarb-pasta-kichererbsen?q=nudeln) und etwas gefrorenes Gemüse und mit etwas von dieser Salsa ist die Mahlzeit fertig.
 
 (image: 01.jpg)
 
@@ -79,3 +79,7 @@ Flattr: schlingel
 ----
 
 Comments: disqus
+
+----
+
+Publishtime: 
